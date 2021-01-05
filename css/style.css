@@ -1,0 +1,45 @@
+body
+{
+    background: blue;
+}
+header
+{
+    width: 100%;
+    position: relative;
+}
+header h1
+{
+    color: white;
+}
+header label
+{
+    color: white;
+}
+.form-control
+{
+    height: 45px;
+    border-radius: 15px;
+}
+.btn-block
+{
+    margin-top: 30px !important;
+}
+
+.ww
+{
+    position: relative;
+    bottom: 100vh;
+}
+
+small
+{
+    color: red;
+}
+i
+{
+    position: absolute;
+    right: 0;
+  
+}
+
+
